@@ -1,5 +1,14 @@
-## Hi there 👋
+## Allegre7tto
 
+B.Sc. in Computer Science @ [China University of Geosciences](https://en.cugb.edu.cn/) 
+
+M.Sc. in HPCDS @ [University of Edinburgh](https://www.ed.ac.uk/)
+
+Interested in Systems | Data Systems, and High-performance Data Analytics, particularly heterogeneous and parallel/distributed computing.
+
+Currently exploring LLM inference and RL infrastructure.
+
+Thanks for stopping by. Happy to connect!
 <!--
 **Allegre7tto/Allegre7tto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,9 +4,9 @@ B.Sc. in Computer Science @ [China University of Geosciences](https://en.cugb.ed
 
 M.Sc. in HPCDS @ [University of Edinburgh](https://www.ed.ac.uk/)
 
-Interested in Systems | Data Systems & High-performance Data Analytics. Particularly heterogeneous and parallel/distributed computing.
+Interested in Systems | Data Systems. Particularly in high-performance heterogeneous and parallel/distributed computing.
 
-Currently exploring LLM inference and RL infrastructure.
+Currently exploring RL infrastructure.
 
 Thanks for stopping by. Happy to connect!
 <!--

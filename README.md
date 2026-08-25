@@ -4,7 +4,7 @@ B.Sc. in Computer Science @ [China University of Geosciences](https://en.cugb.ed
 
 M.Sc. in HPCDS @ [University of Edinburgh](https://www.ed.ac.uk/)
 
-Interested in Systems | Data Systems. Particularly in high-performance parallel/distributed computing.
+Interested in (Data)Systems. Particularly in high-performance parallel/distributed computing.
 
 Currently exploring RL infrastructure.
 

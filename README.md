@@ -6,7 +6,7 @@ M.Sc. in HPCDS @ [University of Edinburgh](https://www.ed.ac.uk/)
 
 Interested in (Data)Systems. Particularly in high-performance parallel/distributed computing.
 
-Currently exploring RL infrastructure.
+Currently exploring infrastructure for RL and efficient LLM serving.
 
 Thanks for stopping by. Happy to connect!
 <!--

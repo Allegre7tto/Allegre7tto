@@ -8,7 +8,7 @@ Interested in (Data)Systems. Particularly in high-performance parallel/distribut
 
 Currently exploring infrastructure for RL and efficient LLM serving.
 
-Thanks for stopping by. Happy to connect!
+Thanks for stopping by.
 <!--
 **Allegre7tto/Allegre7tto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

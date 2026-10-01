@@ -4,7 +4,7 @@ B.Sc. in Computer Science @ China University of Geosciences
 
 M.Sc. in HPCDS @ University of Edinburgh
 
-Interested in Systems. Particularly in parallel/distributed computing. Also familiar with Data Science and the engineering.
+Interested in Systems. Particularly in parallel/distributed computing. Also familiar with Data Science and its engineering/infrastructure.
 
 Currently exploring infrastructure for RL and efficient LLM training.
 

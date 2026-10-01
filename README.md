@@ -1,10 +1,10 @@
 ## Allegre7tto
 
-B.Sc. in Computer Science @ [China University of Geosciences](https://en.cugb.edu.cn/) 
+B.Sc. in Computer Science @ China University of Geosciences
 
-M.Sc. in HPCDS @ [University of Edinburgh](https://www.ed.ac.uk/)
+M.Sc. in HPCDS @ University of Edinburgh
 
-Interested in (Data)Systems. Particularly in high-performance parallel/distributed computing.
+Interested in Systems. Particularly in parallel/distributed computing. Also familiar with Data Science and the engineering.
 
 Currently exploring infrastructure for RL and efficient LLM training.
 

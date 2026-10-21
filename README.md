@@ -1,9 +1,5 @@
 ## Allegre7tto
 
-B.Sc. in Computer Science @ China University of Geosciences
-
-M.Sc. in HPC&DS @ University of Edinburgh
-
 Interested in Systems. Particularly in Parallel/Distributed Computing. Also familiar with Data Science & Engineering.
 
 Currently exploring infrastructure for RL and efficient LLM training.
